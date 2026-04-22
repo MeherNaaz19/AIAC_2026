@@ -1,6 +1,6 @@
 /* SkyWay v3 — app.js */
 //Generate a complete frontend JavaScript code for a flight booking management system called "SkyWay". The code should include the following features:
-//1. booking details page that displays comprehensive information about a specific flight booking, including route details, passenger information, fare breakdown, and booking status.
+//1. booking details page that displays information about a specific flight booking, including route details, passenger information, fare breakdown, and booking status.
 //2. web check-in page that allows users to check in for their flight online, providing necessary details and generating a boarding pass upon successful check-in and also ock payment with upi or card.
 //3. user profile page where users can view and update their personal information, change their password, and access quick links to their bookings and the home page.
 //4. Authentication functionality with login and registration pages, including OTP-based login and registration options.
